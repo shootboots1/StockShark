@@ -1,0 +1,2 @@
+# StockShark
+trashes stockfish
